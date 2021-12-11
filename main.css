@@ -14,7 +14,7 @@ body {
   margin: 0;
 }
 
-.page-title {
+.title {
   display: inline;
   padding: 20px;
   font-weight: 100;
@@ -44,7 +44,7 @@ body {
     position: relative;
 }
 
-.workExperienceListText {
+.listStyle{
     zoom: 0.75;
     display: inline-block;
     position: relative;
