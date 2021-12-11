@@ -22,14 +22,6 @@ body {
     font: normal normal normal 90px/1.4em cormorantgaramond-semibold,cormorantgaramond,'cormorant garamond',serif;
 }
 
-.header{
-    display: inline;
-  padding: 20px;
-  font-weight: 60;
-  color: whitesmoke;
-    font: normal normal normal 90px/1.4em cormorantgaramond-semibold,cormorantgaramond,'cormorant garamond',serif;
-}
-
 .profile {
     display: inline;
     width: 100px;
