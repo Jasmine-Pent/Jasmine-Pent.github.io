@@ -59,7 +59,7 @@ body {
 }
 
 ul {
-    list-style: none;
+    list-style: circle;
     margin-left: 20px;
 }
 /* FOOTER NAVIGATION */
